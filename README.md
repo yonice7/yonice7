@@ -1,7 +1,7 @@
 ### :wave: Hey, I'm Johnny!
 [![Lkdn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnny-vergara/)  
 <!--[![Tlgrm](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)-->
-[!Dscrd](https://img.shields.io/badge/mrwonderful9176-7289DA?&style=for-the-badge&logo=discord&logoColor=white)<br/>
+![Dscrd](https://img.shields.io/badge/mrwonderful9176-7289DA?&style=for-the-badge&logo=discord&logoColor=white)<br/>
 :mortar_board: **Studying** Business Administration<br/>
 :round_pushpin: **Location** Somewhere in Venezuela<br/>
 :factory: **Currently learning** AI, ML, DS and more stuff<br/>
