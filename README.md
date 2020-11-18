@@ -3,7 +3,7 @@
 :mortar_board: **Studying** Business Administration<br/>
 :round_pushpin: **Location** Somewhere in Venezuela<br/>
 :factory: **Currently learning** AI, ML, DS and more stuff<br/>
-:triangular_flag_on_post: **Destination** Cybersecurity or Quant Finance, who knows?
+:triangular_flag_on_post: **Destination** Cybersecurity or Quant Finance, who knows?<br/>
 :email: **Reach out at** joisaac@pm.me<br/><br/>
 **Always using**<br/>
 ![Vim](https://img.shields.io/badge/vim-019733?&style=for-the-badge&logo=vim&logoColor=white)  ![Xbtu](https://img.shields.io/badge/xubuntu-2284F2?&style=for-the-badge&logo=xfce&logoColor=white)<br/><br/>
