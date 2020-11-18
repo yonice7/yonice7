@@ -4,6 +4,6 @@
 :round_pushpin: **Location** Somewhere in Venezuela<br/>
 :factory: **Currently learning** AI, ML, DS and more stuff<br/>
 :triangular_flag_on_post: **Destination** Cybersecurity or Quant Finance, who knows?<br/>
-**Always using**
-![Vim](https://img.shields.io/badge/vim-019733?&style=for-the-badge&logo=vim&logoColor=white) and ![Xbtu](https://img.shields.io/badge/xubuntu-2284F2?&style=for-the-badge&logo=xfce&logoColor=white)<br/>
+**Always using**<br/>
+![Vim](https://img.shields.io/badge/vim-019733?&style=for-the-badge&logo=vim&logoColor=white)  ![Xbtu](https://img.shields.io/badge/xubuntu-2284F2?&style=for-the-badge&logo=xfce&logoColor=white)<br/>
 *Exciting time in the :earth_americas: right now, exciting time!*
