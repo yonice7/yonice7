@@ -5,6 +5,6 @@
 :factory: **Currently learning** AI, ML, DS and more stuff<br/>
 :triangular_flag_on_post: **Destination** Cybersecurity or Quant Finance, who knows?<br/>
 :email: **Reach out at** joisaac@pm.me<br/><br/>
-**:blue_heart:** <br/>
+**:blue_heart: using**<br/>
 [![Vim](https://img.shields.io/badge/vim-019733?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)  [![Xbtu](https://img.shields.io/badge/xubuntu-2284F2?&style=for-the-badge&logo=xfce&logoColor=white)](https://xubuntu.org/)<br/><br/>
 ***Exciting time in the :earth_americas: right now, exciting time!***
