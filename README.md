@@ -1,7 +1,7 @@
 ### :wave: Hey, I'm Johnny!
 [![Lkdn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnny-vergara/)  ![Dscrd](https://img.shields.io/badge/mrwonderful_9176-7289DA?&style=for-the-badge&logo=discord&logoColor=white)<br/>
 
-:mortar_board: **Studying** Business Administration<br/>
+:fa-graduation-cap: **Studying** Business Administration<br/>
 :round_pushpin: **Location** Somewhere in Venezuela<br/>
 :factory: **Currently learning** AI, ML, DS and more stuff<br/>
 :triangular_flag_on_post: **Destination** Cybersecurity or Quant Finance, who knows?<br/>
