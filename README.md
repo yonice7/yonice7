@@ -3,8 +3,8 @@
 
 :mortar_board: **Studying** Business Administration<br/>
 :round_pushpin: **Location** Somewhere in Venezuela<br/>
-:pencil2: **Currently learning** AI, ML, DS and more stuff<br/>
-:triangular_flag_on_post: **Destination** Cybersecurity or Quant Finance, who knows?<br/>
+:pencil2: **Currently self-taught learning** Artificial Intelligence, Machine Learning and Data Science<br/>
+:triangular_flag_on_post: **Destination** Trying to become a Cybersec or a Quant, who knows?<br/>
 :email: **Reach out at** joisaac@pm.me<br/><br/>
 
 **I :blue_heart: using**<br/>
