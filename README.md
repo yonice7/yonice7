@@ -1,6 +1,6 @@
 ## hell0_fr1end.md
-<a href="https://linkedin.com/in/johnny-vergara/"><img align="center" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"></a>&nbsp;&nbsp; 
-<a href="https://linkedin.com/in/johnny-vergara/"><img align="center" height="30" src="https://img.shields.io/badge/mrwonderful_9176-000000?&style=for-the-badge&logo=discord&logoColor=white" width="30"></a>&nbsp;&nbsp;   
+[![Lkdn](https://img.shields.io/badge/-%23000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnny-vergara/)  ![Dscrd](https://img.shields.io/badge/mrwonderful_9176-000000?&style=for-the-badge&logo=discord&logoColor=white)<br/>
+<a href="https://linkedin.com/in/johnny-vergara/"><img align="center" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20"></a>&nbsp;&nbsp;
 
 :mortar_board: **Studying** Business Administration<br/>
 :round_pushpin: **Location** Somewhere in Venezuela<br/>
