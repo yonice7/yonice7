@@ -1,5 +1,5 @@
 ## hell0_fr1end.md
-<a href="https://linkedin.com/in/johnny-vergara/"><img align="center" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"></a>&nbsp;&nbsp;  ![Dscrd](https://img.shields.io/badge/mrwonderful_9176-0000?&style=for-the-badge&logo=discord&logoColor=white) 
+<a href="https://linkedin.com/in/johnny-vergara/"><img align="center" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"></a>&nbsp;&nbsp;  ![Dscrd](https://img.shields.io/badge/mrwonderful_9176-000000?&style=for-the-badge&logo=discord&logoColor=white) 
 
 :mortar_board: **Studying** Business Administration<br/>
 :round_pushpin: **Location** Somewhere in Venezuela<br/>
