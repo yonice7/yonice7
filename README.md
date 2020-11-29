@@ -1,4 +1,4 @@
-## hell0fr1end.dat
+## hell0fr1end.md
 [![Lkdn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnny-vergara/)  ![Dscrd](https://img.shields.io/badge/mrwonderful_9176-7289DA?&style=for-the-badge&logo=discord&logoColor=white)<br/>
 
 :mortar_board: **Studying** Business Administration<br/>
