@@ -5,7 +5,7 @@
 :round_pushpin: **Location** Somewhere in Venezuela<br/>
 :pencil2: **Currently self-taught learning** Artificial Intelligence, Machine Learning and Data Science<br/>
 :triangular_flag_on_post: **Destination** Trying to become a Cybersec or a Quant, who knows?<br>
-[:headphones:](https://www.youtube.com/watch?v=cYupXPf9NZ4)**Mood** Rules don't stop me
+[:headphones: **Mood**](https://www.youtube.com/watch?v=cYupXPf9NZ4) Rules don't stop me
 
 **:blue_heart: using**<br/>
 [![Vim](https://img.shields.io/badge/vim-019733?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)  [![Xbtu](https://img.shields.io/badge/xubuntu-2284F2?&style=for-the-badge&logo=xfce&logoColor=white)](https://xubuntu.org/)<br/><br/>
