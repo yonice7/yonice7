@@ -7,12 +7,10 @@
 :triangular_flag_on_post: **Destination** Trying to become a Cybersec or a Quant, who knows?<br/>
 [![Spfy](https://simpleicons.org/icons/spotify.svg =12*12)](https://www.youtube.com/watch?v=cYupXPf9NZ4) **Mood** Rules don't stop me
 
+
+<a href="https://www.youtube.com/watch?v=cYupXPf9NZ4"><img align="center" height="20" src="https://simpleicons.org/icons/spotify.svg" width="20"></a>
+
 **:blue_heart: using**<br/>
 [![Vim](https://img.shields.io/badge/vim-019733?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)  [![Xbtu](https://img.shields.io/badge/xubuntu-2284F2?&style=for-the-badge&logo=xfce&logoColor=white)](https://xubuntu.org/)<br/><br/>
 
 ***Exciting time in the :earth_americas: right now, exciting time!***
-
-img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
-}
