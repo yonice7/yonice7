@@ -1,5 +1,5 @@
 ## h3ll0_fr1end.md
-[![Lkdn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnny-vergara/)  ![Dscrd](https://img.shields.io/badge/mrwonderful_9176-000000?&style=for-the-badge&logo=discord&logoColor=white)<br/>
+[![Lkdn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnny-vergara/)  [![Dscrd](https://img.shields.io/badge/discord-000000?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v2TMWcbf32)<br/>
 
 :mortar_board: **Studying** Business Administration<br/>
 :round_pushpin: **Location** Somewhere in Venezuela<br/>
