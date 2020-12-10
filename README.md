@@ -4,7 +4,7 @@
 :mortar_board: **Studying** Business Administration<br/>
 :round_pushpin: **Location** Somewhere in Venezuela<br/>
 :pencil2: **Currently self-taught learning** Artificial Intelligence, Machine Learning and Data Science<br/>
-:triangular_flag_on_post: **Destination** Trying to become a Cybersec or a Quant, who knows?<br/>
+:triangular_flag_on_post: **Destination** Trying to become a Cybersec or a Quant, who knows?<br/><br/>
 <a href="https://www.youtube.com/watch?v=cYupXPf9NZ4"><img align="left" height="16" src="https://simpleicons.org/icons/spotify.svg" width="16"></a>**Mood** Rules don't stop me
 
 **:blue_heart: using**<br/>
