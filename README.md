@@ -12,10 +12,10 @@
 
 ***Exciting time in the :earth_americas: right now, exciting time!***
 
-[1]: (https://linkedin.com/in/johnny-vergara/)
-[2]: (https://discord.gg/v2TMWcbf32)
+[1]: https://linkedin.com/in/johnny-vergara/
+[2]: https://discord.gg/v2TMWcbf32
 
-[3]: (https://www.youtube.com/watch?v=cYupXPf9NZ4)
+[3]: https://www.youtube.com/watch?v=cYupXPf9NZ4
 
-[4]: (https://www.vim.org/)
-[5]: (https://xubuntu.org/)
+[4]: https://www.vim.org/
+[5]: https://xubuntu.org/
