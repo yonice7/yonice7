@@ -1,5 +1,4 @@
 ## h3ll0_fr1end.md
-[![Lkdn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)][1]  [![Dscrd](https://img.shields.io/badge/discord-000000?&style=for-the-badge&logo=discord&logoColor=white)][2]<br/>
 
 :mortar_board: **Studying** Business Administration<br/>
 :round_pushpin: **Location** Somewhere in Venezuela<br/>
