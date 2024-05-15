@@ -2,7 +2,7 @@
 
 :round_pushpin: **Location** 🇦🇷 <br/>
 :pencil2: **I'm learning** coding, artificial Intelligence and machine Learning<br/>
-[:headphones: **Mood**][3] Rules don't stop me
+[:headphones:] [3]Rules don't stop me
 
 ***Exciting time in the :earth_americas: right now, exciting time!***
 
