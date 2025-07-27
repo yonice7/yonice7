@@ -1,8 +1,8 @@
 ## h3ll0_fr1end.md
 
 :pencil2: learning to code<br/>
-:seedling: bulding things for our and the next generation<br/>
-:heart: do you know [HIM](1)?
+:seedling: bulding things for generations<br/>
+:heart: Do you know really know [HIM][1] ?
 
 
 ***BO ADON YESHUA***
