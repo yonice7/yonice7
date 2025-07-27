@@ -2,7 +2,7 @@
 
 :pencil2: learning to code<br/>
 :seedling: bulding things for generations<br/>
-:heart: Do you know really know [HIM][1] ?
+:heart: Do you really know [HIM][1] ?
 
 
 ***BO ADON YESHUA***
